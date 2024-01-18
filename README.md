@@ -1,6 +1,10 @@
 
 # Desafio técnico: Desenvolvedor de Software 🚀
 
+Status do Desafio:
+O desafio não foi concluído com sucesso. Perdi bastante tempo tentando lidar com o banco de dados para a função de insert no banco de dados. No fim consegui fazer funcionar.
+No momento é possível cadastrar no banco de dados e ele exibe o nome no card do front end.
+
 
 
 Problema Proposto: 
